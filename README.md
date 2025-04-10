@@ -125,9 +125,11 @@ Example: You are printing 1–10 but want to skip 5. Use continue when i == 5
 - Delete the `output.txt` file if it got too big.
 4. Always be mindful about the **order** of your code.
 Example: If you put `printf()` before a `break` or `continue` condition, the print will happen before the condition is checked — even if the condition should have stopped/skipped the execution. This is just like the behavior of `do-while` loops.
-5. I solved some **mini problems** using loops. You’ll find those inside the folders:
+5. I solved some **mini problems** using for loops. You’ll find those inside the folders:
 - more_for_loop
 - loop_with_condition
+6. If you want same **problem solving code** with **while loop**. You have to go this repository:
+- [https://github.com/MashrafiGit/Practice-Task-Loop.git] > `more_while_loop.c`
 
 ---
 
