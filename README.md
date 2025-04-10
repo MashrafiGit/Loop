@@ -59,6 +59,7 @@ A `loop` is a way to repeat a specific task multiple times. All loop types in C 
 
 ### 🔁 Loop Syntax Examples
 
+
 1. `for` Loop
 ```c
 for (initialization; condition; increment/decrement) {
@@ -120,11 +121,11 @@ Example: You are printing 1–10 but want to skip 5. Use continue when i == 5
 1. You can use `if-else` or other loops inside a loop (nested loops).
 2. Don’t worry about learning all loops — understanding one loop properly is enough to solve most problems.
 3. Be careful of **infinite loops!** They happen when the condition never becomes false. If this happens:
-- Press Ctrl + C in the terminal to stop it.
-- Delete the output.txt file if it got too big.
+- Press `Ctrl + C` in the terminal to stop it.
+- Delete the `output.txt` file if it got too big.
 4. Always be mindful about the **order** of your code.
 Example: If you put `printf()` before a `break` or `continue` condition, the print will happen before the condition is checked — even if the condition should have stopped/skipped the execution. This is just like the behavior of `do-while` loops.
-5. I solved some **mini** problems using loops. You’ll find those inside the folders:
+5. I solved some **mini problems** using loops. You’ll find those inside the folders:
 - more_for_loop
 - loop_with_condition
 
