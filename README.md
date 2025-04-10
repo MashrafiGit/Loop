@@ -49,7 +49,7 @@ A `loop` is a way to repeat a specific task multiple times. All loop types in C 
 2. **Condition** – The ending condition. When this is false, the loop stops.
 3. **Increment/Decrement** – Controls how the loop moves forward or backward.
 
-> **Tip on increment/decrement:**
+> **Tip on increment/decrement:** 
 > **Instead of writing `i = i + 1`, you can use shortcuts like `i++`, `i += 1`, or `i--` to make your code cleaner.**
 > **You can also step by 2, 3, or more using `i += 2`, `i += 3`, etc.**
 
