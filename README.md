@@ -129,7 +129,7 @@ Example: If you put `printf()` before a `break` or `continue` condition, the pri
 - more_for_loop
 - loop_with_condition
 6. If you want same **problem solving code** with **while loop**. You have to go this repository:
-- [https://github.com/MashrafiGit/Practice-Task-Loop.git] > `more_while_loop.c`
+- https://github.com/MashrafiGit/Practice-Task-Loop.git > `more_while_loop.c`
 
 ---
 
